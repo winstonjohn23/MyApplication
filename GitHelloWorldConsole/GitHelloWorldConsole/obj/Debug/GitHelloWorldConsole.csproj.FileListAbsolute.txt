@@ -1,0 +1,1 @@
+C:\GitHub\MyApplication\MyApplication\GitHelloWorldConsole\GitHelloWorldConsole\bin\Debug\GitHelloWorldConsole.exe.config
